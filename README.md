@@ -13,7 +13,7 @@
 
 如何找到我？邮件Jessica_Jiang_92@163.com
 
-- 近期，我也将学习和尝试使用React来创建一些简单有趣的demo
+- 近期，我也在学习和尝试使用React来创建一些简单有趣的demo
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jessica-Jiang-92&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
